@@ -1,0 +1,10 @@
+#+TITLE: Chess
+#+author: Lumi Denoir
+#+description: A python hobby project for a two player chess in terminal(for now)
+
+started as an hobby project for learning python now an idea which will extend based on my leisure
+
+** Todo list
+- [ ] write a server to host it locally.
+- [ ] add a browser based gui for local server
+- [ ] also add terminal based api
